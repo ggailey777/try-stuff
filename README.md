@@ -1,3 +1,3 @@
 # try-stuff
 
-Welcome to great new Azure Functions!
+Welcome to great awesome new Azure Functions!
