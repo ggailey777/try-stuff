@@ -1,3 +1,3 @@
 # try-stuff
 
-Welcome to the buggy new Azure Functions!
+Welcome to the weirdly buggy new Azure Functions!
